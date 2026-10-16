@@ -1,0 +1,6 @@
+{
+  "name": "Jurnal KBM Pembelajaran Mendalam SMK",
+  "description": "Aplikasi Web Jurnal KBM Pembelajaran Mendalam SMK responsif HP Android berbasis Google Apps Script, Google Sheets, dan Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
